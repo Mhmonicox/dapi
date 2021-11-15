@@ -40,7 +40,7 @@
     "dotenv": "^6.0.0",
     "dotenv-expand": "^5.1.0",
     "dotenv-safe": "^8.2.0",
-    "grpc": "^1.24.3",
+    "grpc": "^1.24.11",
     "jayson": "^2.0.4",
     "lodash": "^4.17.19",
     "request": "^2.87.0",
