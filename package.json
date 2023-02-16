@@ -45,7 +45,7 @@
     "lodash": "^4.17.19",
     "request": "^2.87.0",
     "request-promise-native": "^1.0.5",
-    "zeromq": "^5.2.0"
+    "zeromq": "^5.3.1"
   },
   "devDependencies": {
     "@dashevo/dapi-client": "~0.15.0",
